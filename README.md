@@ -19,7 +19,7 @@
 
 > Run_data: The purpose of this directory is to hold the cache files for the project runs.
 
-> Spectral Data: This directory contains the raw spectral data, the VMD pre-processed data, the test data for the project.
+> Spectral Data: This directory contains the raw spectral data, the VMD pre-processed data, the test data for the project. Also, field test data is included.
 
 > Data Process.py: Reading and processing data.
 
