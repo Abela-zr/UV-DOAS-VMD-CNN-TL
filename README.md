@@ -1,4 +1,4 @@
-# DUV-DOAS-VMD-CNN-TL
+# UV-DOAS-VMD-CNN-TL
 
 ### Catalogue
 * Model Structure and Parameters (directory)
